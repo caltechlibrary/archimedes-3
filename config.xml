@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	galleryTitle="The Recovery of Greek Mathematics in Italy"
+	useFullscreenExpand="true"
+	useThumbDots="true"
+
+>
+  <image imageURL="images/03-title.jpg"
+	thumbURL="thumbs/03-title.jpg"
+	linkURL="images/03-title.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_3\03-title.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/03-01.jpg"
+	thumbURL="thumbs/03-01.jpg"
+	linkURL="images/03-01.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_3\03-01.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/03-2.jpg"
+	thumbURL="thumbs/03-2.jpg"
+	linkURL="images/03-2.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_3\03-2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/03-3.jpg"
+	thumbURL="thumbs/03-3.jpg"
+	linkURL="images/03-3.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_3\03-3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/03-4.jpg"
+	thumbURL="thumbs/03-4.jpg"
+	linkURL="images/03-4.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_3\03-4.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/03-05.06.jpg"
+	thumbURL="thumbs/03-05.06.jpg"
+	linkURL="images/03-05.06.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_3\03-05.06.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/03-07.08.jpg"
+	thumbURL="thumbs/03-07.08.jpg"
+	linkURL="images/03-07.08.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_3\03-07.08.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
